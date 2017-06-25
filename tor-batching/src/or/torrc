@@ -1,0 +1,8 @@
+ORPort 9053
+Nickname mojen
+Log notice file /home/isec/projects/batching/notices-marc.log
+RelayBandwidthRate 40 MBytes
+RelayBandwidthBurst 40 MBytes
+ExitPolicy reject *:*
+
+
